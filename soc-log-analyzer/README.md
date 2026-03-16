@@ -10,4 +10,4 @@ A Python-based SOC tool that analyzes authentication logs and detects brute forc
 
 ## Usage
 
-python analyzer.pygit add README.md
+python analyzer.py
